@@ -8,6 +8,6 @@ Para utilizar el proyecto de manera local será necesario tener instalado:
 - Github Desktop
 - VSCode
 - The Things Network
-+ DATACAKE
+- DATACAKE
 ## Finalidad
 Este trabajo será útil para aquellas personas que necesiten recordar la localización de su vehículo y la tranquilidad que genera saber en cada momento que el automóvil se encuentra en su ubicación y en caso de que no sea así tener una rápida capacidad de respuesta para arreglar la situación.
