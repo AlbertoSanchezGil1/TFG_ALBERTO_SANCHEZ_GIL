@@ -21,4 +21,5 @@ Estos dos archivos de script Python son utilizados como librerías  para poder c
 + [Librería pycoproc_1 ](https://github.com/pycom/pycom-libraries/blob/master/shields/lib/pycoproc_1.py )
 ## Main.py
 Es el script principal del proyecto por el cual se va a producir la conexión a TTN y el envió de los datos necesarios  para realizar todas las funciones.
-Hay que recalcar que  el código para establecer la conexión LoRaWAN entre el nodo y el servidor de red se ha obtenido de  (https://github.com/pycom/pycom-libraries/blob/master/examples/OTA/1.0.1/flash/main.py)
+Hay que recalcar que  el código para establecer la conexión LoRaWAN entre el nodo y el servidor de red se ha obtenido de  
+ https://github.com/pycom/pycom-libraries/blob/master/examples/OTA/1.0.1/flash/main.py
