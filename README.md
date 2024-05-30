@@ -5,9 +5,9 @@ Como se explica en la plantilla [TFG_ALBERTO_SANCHEZ_GIL](https://github.com/Alb
 Para poder instalar el archivo solo se necesitará tener un servidor de red, un servidor de aplicación y una plataforma IoT.
 ## Uso
 Para utilizar el proyecto de manera local será necesario tener instalado:
-    ***-Github Desktop
-    ***-VSCode
-   *** -The Things Network
-    ***-DATACAKE
+- Github Desktop
+- VSCode
+- The Things Network
++ DATACAKE
 ## Finalidad
 Este trabajo será útil para aquellas personas que necesiten recordar la localización de su vehículo y la tranquilidad que genera saber en cada momento que el automóvil se encuentra en su ubicación y en caso de que no sea así tener una rápida capacidad de respuesta para arreglar la situación.
