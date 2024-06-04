@@ -45,7 +45,7 @@ try:
         if cambio_det==1:
             time.sleep(30)
         else:
-            time.sleep(120)  
+            time.sleep(240)  
 
         
         s.setblocking(True)
